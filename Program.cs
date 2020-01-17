@@ -13,7 +13,7 @@ namespace Calculator
             Console.WriteLine("Please enetr your name!");
             string name = Console.ReadLine();
 
-            Console.WriteLine("Hello " + name + "! Thanks.");
+            Console.WriteLine("Hello " + name + "! \nThanks for providing your name");
 
             Console.ReadKey();
            
